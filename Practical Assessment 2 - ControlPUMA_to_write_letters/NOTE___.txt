@@ -1,0 +1,5 @@
+1. Giai thich tai sao chu H tao ra mat 1 goc
+2. Nop Ex2 thoi
+3. Hoi thay tai sao de chung minh trajectory trong workspace
+
+683 -Reza book
